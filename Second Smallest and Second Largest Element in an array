@@ -1,0 +1,54 @@
+## TC : O(n)
+## SC : O(1)
+
+import java.util.*;
+class Main {
+
+    public static int SecondLargestElement(int[] arr) {
+        if (arr == null || arr.length == 0) {
+            throw new IllegalArgumentException("Array must not be empty");
+        }
+
+        int max = arr[0];
+        int max2 = arr[0];
+        for (int i = 1; i < arr.length; i++)
+        {
+            if (arr[i] > max)
+            {
+                max = arr[i];
+            }
+            if(arr[i] > max2 && arr[i] != max)
+            {
+                max2 = arr[i];
+            }
+        }
+        return max2;
+    }
+    
+    public static int SecondSmallestElement(int[] arr) {
+        if (arr == null || arr.length == 0) {
+            throw new IllegalArgumentException("Array must not be empty");
+        }
+
+        int min = arr[0];
+        int min2 = arr[0];
+        for (int i = 1; i < arr.length; i++)
+        {
+            if (arr[i] < min)
+            {
+                min = arr[i];
+            }
+            if(arr[i] < min2 && arr[i] != min)
+            {
+                min2 = arr[i];
+            }
+        }
+        return min2;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {2, 5, 1, 3, 0};
+        System.out.println(SecondLargestElement(arr));
+        System.out.println(SecondSmallestElement(arr));
+    }
+}
