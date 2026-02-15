@@ -5,9 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
