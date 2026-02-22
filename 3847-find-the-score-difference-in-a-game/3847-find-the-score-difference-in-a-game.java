@@ -51,14 +51,13 @@ class Solution {
 
         for(int i=0; i<arr.length; i++){
             
-            if(arr[i]%2 != 0){
+            if((arr[i] & 1) == 1){
                 isP1Active = !isP1Active;
+                //Takes current value-> Reverse it->Store it back into isP1Active
             }
-
             if((i+1)%6 == 0){
                 isP1Active = !isP1Active;
             }
-            
             if(isP1Active){
                 diff += arr[i];
             }
