@@ -1,16 +1,16 @@
 import java.util.*;
 
 class Solution {
-    public int[] twoSum(int[] nums, int target){
-        for(int i = 0 ; i<nums.length ; i++){
-            for (int j = i+1 ; j<nums.length ; j++){
-                if(nums[i]+nums[j] == target){
-                    return new int[] {i,j};
+    public int[] twoSum(int[] arr, int target){
+        for(int i=0; i<arr.length-1; i++){
+            for(int j=i+1; j<arr.length; j++){
+                if(arr[i] + arr[j] == target){
+                    return new int[]{i,j};
                 }
             }
         }
         return new int[0];
-}
+        }
 }
 
 // OPTIMAL ONE
@@ -27,29 +27,6 @@ class Solution {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// MY CODE
-    //     for(int num : nums){
-    //         for(int n1 : nums)
-    //         //traverse for all eelemts for this array 
-    //         if(nums[num] + nums[num+1] == target){
-    //             // add num to n[] array 
-
-    //         }
-    //     }
-    // }
 
 
 
