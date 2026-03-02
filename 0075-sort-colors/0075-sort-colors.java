@@ -12,7 +12,7 @@ class Solution {
     }
 }
 
-
+//optimal solution
 //  int a = 0, b = arr.length - 1;
 //         int i = 0;
 
