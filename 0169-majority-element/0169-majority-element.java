@@ -1,15 +1,14 @@
 import java.util.*;
 class Solution {
-    public int majorityElement(int[] nums) {
-        int n = nums.length;
+    public int majorityElement(int[] arr) {
         int cnt = 0;
-        int el = 0;
+        int max = 0;
         
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < arr.length; i++) {
             if (cnt == 0) {
                 cnt = 1;
-                el = nums[i];
-            } else if (el == nums[i]) {
+                max = arr[i];
+            } else if (max == arr[i]) {
                 cnt++;
             } else {
                 cnt--;
@@ -17,13 +16,13 @@ class Solution {
         }
 
         int cnt1 = 0;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == el) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == max) {
                 cnt1++;
             }
         }
-        if (cnt1 > (n / 2)) {
-            return el;
+        if (cnt1 > (arr.length / 2)) {
+            return max;
         }
         return -1;
     }
