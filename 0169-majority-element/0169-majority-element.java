@@ -27,3 +27,20 @@ class Solution {
         return -1;
     }
 }
+
+//BRUTE FORCE 
+// 2 for loop count occurence and print for (> n/2)
+
+//HashMap
+// HashMap<Integer, Integer> map = new HashMap<>();
+// for(int num: arr){
+//     map.put(num, map.getOrDefault(num,0)+1);
+// }
+
+
+//Default syntax: for(Map.Entry<KeyType, ValueType> variable : map.entrySet())- entryset gives key value pair 
+// for(Map.Entry<Integer, Integer> entry: map.entrySet()){
+//     if (entry.getValue() > n / 2) {
+//         return entry.getKey();
+//     }
+// }
