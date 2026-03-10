@@ -1,27 +1,13 @@
-// class Solution {
-//     public int minOperations(String s) {
-//         int cnt = 0;
-//         for(int i=0 ; i<s.length()-1; i++){
-//             if(char.at(i) == char.At(i+1)){
-//                 cnt++;
-//             }
-//         }
-//         return cnt;
-//     }
-// }
 class Solution {
     public int minOperations(String s) {
-        int pattern1 = 0; // starting with '0' -> 010101
-        int pattern2 = 0; // starting with '1' -> 101010
-        
-        for (int i = 0; i < s.length(); i++) {
-            char expected1 = (i % 2 == 0) ? '0' : '1';
-            char expected2 = (i % 2 == 0) ? '1' : '0';
-            
-            if (s.charAt(i) != expected1) pattern1++;
-            if (s.charAt(i) != expected2) pattern2++;
+        int cnt1 = 0;
+        int cnt2 = 0;
+
+        for(int i = 0; i < s.length(); i++){
+            if(s.charAt(i) != (i % 2 == 0 ? '0' : '1')) cnt1++;
+            if(s.charAt(i) != (i % 2 == 0 ? '1' : '0')) cnt2++;
         }
-        
-        return Math.min(pattern1, pattern2);
+
+        return Math.min(cnt1, cnt2);
     }
 }
