@@ -17,3 +17,6 @@ class Solution {
         return arr;
     }
 }
+//APPROACH 
+//i = top corner , j = bottom 
+//while (top < bottom){swap rows}
