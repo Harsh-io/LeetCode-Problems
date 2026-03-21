@@ -1,3 +1,6 @@
+//APPROACH 
+//i = top corner , j = bottom 
+//while (top < bottom){swap rows}
 class Solution {
     public int[][] reverseSubmatrix(int[][] arr, int x, int y, int k) {
         
@@ -17,6 +20,3 @@ class Solution {
         return arr;
     }
 }
-//APPROACH 
-//i = top corner , j = bottom 
-//while (top < bottom){swap rows}
