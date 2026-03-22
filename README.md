@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
