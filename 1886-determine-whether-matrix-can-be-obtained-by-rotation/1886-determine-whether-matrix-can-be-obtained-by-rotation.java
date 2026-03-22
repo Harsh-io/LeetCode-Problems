@@ -1,7 +1,7 @@
 class Solution {
-    public boolean findRotation(int[][] arr, int[][] target) {
-        for (int k = 0; k < 4; k++) {
-            if (isEqual(arr, target)) return true;
+    public boolean findRotation(int[][] arr, int[][] t) {
+        for (int k = 0; k < 4; k++) { //maximum 3 rotation required
+            if (isEqual(arr, t)) return true;
             arr = rotate(arr);
         }
         return false;
@@ -19,13 +19,13 @@ class Solution {
     }
 
     // Rotate matrix 90 degree
-    private int[][] rotate(int[][] mat) {
-        int n = mat.length;
+    private int[][] rotate(int[][] arr) {
+        int n = arr.length;
         int[][] res = new int[n][n];
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                res[j][n - i - 1] = mat[i][j];
+                res[j][n - i - 1] = arr[i][j];
             }
         }
         return res;
