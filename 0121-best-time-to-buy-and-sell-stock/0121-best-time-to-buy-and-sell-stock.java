@@ -10,9 +10,7 @@ class Solution {
             
             int profit = arr[i] - min;
 
-            if(profit > maxProfit) {
-                maxProfit = profit;
-            }
+            if(profit > maxProfit){maxProfit = profit;}
         }
         return maxProfit;
     }
