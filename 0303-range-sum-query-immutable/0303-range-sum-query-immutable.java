@@ -1,7 +1,7 @@
 class NumArray {
-    int[] arr;
-    public NumArray(int[] arr) {
-        this.arr = arr;
+    int[] arr; //first initialise -> class obj
+    public NumArray(int[] nums) { // constructor 
+        this.arr = nums; //Makes it accessible to all methods as "arr"
     }
     
     public int sumRange(int left, int right) {
