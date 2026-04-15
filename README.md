@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
