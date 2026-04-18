@@ -1,13 +1,16 @@
 class Solution {
     public void reverseString(char[] arr) {
-        int n = arr.length-1;
-        for(int i=0; i<=n/2; i++){
-            char temp = arr[i];
-            arr[i] = arr[n-i];
-            arr[n-i] = temp;
-        }
-        for(int i=0; i<n; i++){
-            System.out.print(arr[i]);
+        int l = 0;
+        int r = arr.length-1;
+        while(l<r){
+            char temp = arr[l];
+            arr[l] = arr[r];
+            arr[r] = temp;
+            l++;
+            r--;
         }
     }
 }
+
+//option 2
+//swap i & n-i (from i = 0 -> n/2)
