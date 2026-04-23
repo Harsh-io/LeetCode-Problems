@@ -16,12 +16,6 @@ class Solution {
         }
          return even;
   }
-    public static void main(String[] args){
-        Solution sol = new Solution();
-        int[] nums = {12,345,2,6,7896};
-        int result = sol.findNumbers(nums);
-         System.out.println("Count of numbers with even number of digits: " + result);
-    }
 }
 
 
