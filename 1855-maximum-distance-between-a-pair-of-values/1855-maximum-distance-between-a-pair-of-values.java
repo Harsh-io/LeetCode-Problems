@@ -22,3 +22,23 @@ class Solution {
         return result;    
     }
 }
+
+//opimized 
+// class Solution {
+//     public int maxDistance(int[] arr1, int[] arr2) {
+//         int i = 0, j = 0;
+//         int n = arr1.length, m = arr2.length;
+//         int result = 0;
+
+//         while(i < n && j < m){
+//             if(arr1[i] <= arr2[j]){
+//                 result = Math.max(result, j - i);
+//                 j++;   // try to increase distance
+//             } else {
+//                 i++;   // condition fails → move i
+//             }
+//         }
+
+//         return result;
+//     }
+// }
