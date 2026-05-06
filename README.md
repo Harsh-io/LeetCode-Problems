@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
