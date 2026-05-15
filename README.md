@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0796-rotate-string) |
