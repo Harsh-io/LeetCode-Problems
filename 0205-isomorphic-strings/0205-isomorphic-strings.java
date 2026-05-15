@@ -17,11 +17,6 @@ class Solution {
             }else{
                 map1.put(c1, c2);
             }
-        }
-
-        for(int j=0; j<l2; j++){
-            char c1 = s.charAt(j);
-            char c2 = t.charAt(j);
 
             if(map2.containsKey(c2)){
                 if(map2.get(c2) != c1){return false;}
@@ -29,7 +24,6 @@ class Solution {
                 map2.put(c2, c1);
             }
         }
-
         return true;
     }
 }
