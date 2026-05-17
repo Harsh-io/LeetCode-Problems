@@ -1,7 +1,7 @@
 class Solution {
     public int myAtoi(String s) {
 
-        int ans = 0;
+        long ans = 0;
         s = s.strip();
         int i = 0;
         int sign = 1;
@@ -17,15 +17,17 @@ class Solution {
         // digit parsing
         while(i < s.length() && Character.isDigit(s.charAt(i))) {
             int r = s.charAt(i) - '0';
-
-            if(ans > Integer.MAX_VALUE / 10 ||
-            (ans == Integer.MAX_VALUE / 10 && r > 7)) {
-                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-            }
-            
             ans = 10 * ans + r;
+
+            if(sign * ans > Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
+            }
+
+            if(sign * ans < Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
             i++;
         }
-        return sign * ans;
+        return (int)(sign*ans);
     }
 }
