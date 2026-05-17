@@ -22,3 +22,7 @@ class Solution {
         return sb.toString();
     }
 }
+
+//M1: Arraylist + sort 
+//M2: Bucket Sort
+//M3: Priority Queue
