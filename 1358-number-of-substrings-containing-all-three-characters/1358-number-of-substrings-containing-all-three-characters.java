@@ -1,25 +1,45 @@
+import java.util.*;
+
 class Solution {
-    public static int numberOfSubstrings(String s) {
-        int left  = 0;
-        int cnt = 0;
+
+    public int numberOfSubstrings(String s) {
+
         int n = s.length();
 
+        int left = 0;
+        int count = 0;
+
         HashMap<Character, Integer> map = new HashMap<>();
-        for(int right = 0; right<n; right++){
+
+        for (int right = 0; right < n; right++) {
+
             char ch = s.charAt(right);
-            map.put(ch, map.getOrDefault(ch,0)+1);
 
-            while(map.size() == 3){
-                cnt += (n-right);
+            // add current character
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
 
-                char leftc = s.charAt(left);
+            // window contains a,b,c
+            while (map.containsKey('a') &&
+                   map.containsKey('b') &&
+                   map.containsKey('c')) {
 
-                map.put(leftc, map.get(leftc)-1);
-                if(map.get(leftc) == 0){map.remove(leftc);}
+                // all future extensions also valid
+                count += (n - right);
+
+                // shrink window
+                char leftChar = s.charAt(left);
+
+                map.put(leftChar, map.get(leftChar) - 1);
+
+                // remove if frequency becomes 0
+                if (map.get(leftChar) == 0) {
+                    map.remove(leftChar);
+                }
 
                 left++;
             }
         }
-        return cnt;
+
+        return count;
     }
 }
