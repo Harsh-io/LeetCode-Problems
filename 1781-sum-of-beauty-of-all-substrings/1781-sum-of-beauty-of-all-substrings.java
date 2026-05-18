@@ -2,23 +2,28 @@ class Solution {
     public int beautySum(String s) {
         int sum = 0;
 
-        for(int i=0; i<s.length(); i++){
-            HashMap<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
 
-            for(int j=i; j<s.length(); j++){
-                char ch = s.charAt(j);
-                map.put(ch, map.getOrDefault(ch,0)+1);
-                
+            int[] freq = new int[26];
+
+            for (int j = i; j < s.length(); j++) {
+
+                freq[s.charAt(j) - 'a']++;
+
                 int max = 0;
                 int min = Integer.MAX_VALUE;
 
-                for(int freq : map.values()){
-                    max = Math.max(max, freq);
-                    min = Math.min(min, freq);
-                } 
-                sum += (max-min);  
+                for (int k = 0; k < 26; k++) {
+                    if (freq[k] > 0) {
+                        max = Math.max(max, freq[k]);
+                        min = Math.min(min, freq[k]);
+                    }
+                }
+
+                sum += (max - min);
             }
         }
+
         return sum;
     }
 }
