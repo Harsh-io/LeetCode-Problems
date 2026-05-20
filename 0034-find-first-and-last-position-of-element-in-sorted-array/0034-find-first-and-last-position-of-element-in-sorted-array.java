@@ -1,32 +1,42 @@
 class Solution {
     public int[] searchRange(int[] arr, int t) {
-	    int l = 0;
-	    int r = arr.length-1;
-	    int[] ans = {-1,-1};
-	    
-	    
-	    while(l<=r){
-	        int m = l + (r-l)/2;
-	        if(arr[m] == t){
-	            ans[0] = m;
-	            r = m-1;
-	        }
-	        else if(arr[m] > t){r = m-1;}
-	        else{l=m+1;}
-	    }
-	    
-	    l = 0;
-	    r = arr.length-1;
-	    
-	    while(l<=r){
-	        int m = l + (r-l)/2;
-	        if(arr[m] == t){
-	            ans[1] = m;
-	            l = m+1;
-	        }
-	        else if(arr[m] > t){r = m-1;}
-	        else{l=m+1;}
-	    }
-	    return ans;
-	}
+
+        int[] ans = {-1, -1};
+        int start = 0;
+        int end = arr.length - 1;
+
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (arr[mid] == t) {
+                ans[0] = mid;
+                end = mid - 1;
+            }
+            else if (arr[mid] < t) {
+                start = mid + 1;
+            }
+            else {
+                end = mid - 1;
+            }
+        }
+
+        start = 0;
+        end = arr.length - 1;
+
+        // Find last occurrence
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (arr[mid] == t) {
+                ans[1] = mid;
+                start = mid + 1;
+            }
+            else if (arr[mid] < t) {
+                start = mid + 1;
+            }
+            else {
+                end = mid - 1;
+            }
+        }
+        return ans;
+    }
 }
