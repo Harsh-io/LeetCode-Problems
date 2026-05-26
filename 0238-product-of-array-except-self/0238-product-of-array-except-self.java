@@ -15,21 +15,21 @@
 
 
 class Solution {
-    public int[] productExceptSelf(int[] nums) {
-        int n = nums.length;
+    public int[] productExceptSelf(int[] arr) {
+        int n = arr.length;
         int[] ans = new int[n];
 
         //store left products
         ans[0] = 1;
         for(int i = 1; i < n; i++) {
-            ans[i] = ans[i - 1] * nums[i - 1];
+            ans[i] = ans[i - 1] * arr[i - 1];
         }
 
         //multiply right products
         int right = 1;
         for(int i = n - 1; i >= 0; i--) {
             ans[i] = ans[i] * right;
-            right = right * nums[i];
+            right = right * arr[i];
         }
         return ans;
     }
