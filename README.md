@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [1922-count-good-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
