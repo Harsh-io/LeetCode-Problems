@@ -3,19 +3,22 @@ class Solution {
 
         int n = arr.length;
         k = k % n;
-        int[] extra = new int[n];
-        int j = 0;
 
-        for(int i=n-k; i<n; i++){
-            extra[j++] = arr[i]; 
-        }
-        for(int m=0; m<n-k; m++){
-            extra[j++] = arr[m];
-        }
+        reverse(arr, 0, n-k-1);
+        reverse(arr, n-k, n-1);
+        reverse(arr, 0, n-1);
 
+    }
+    public void reverse(int[] arr, int s, int e){
+        while(s < e){
+            int t = arr[s];
+            arr[s] = arr[e];
+            arr[e] = t;
 
-        for(int q=0; q<n; q++){
-            arr[q] = extra[q];
+            s++;
+            e--;
         }
     }
+
+
 }
