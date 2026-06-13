@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
