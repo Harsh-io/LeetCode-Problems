@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
