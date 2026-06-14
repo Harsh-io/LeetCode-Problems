@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2235-add-two-integers) |
