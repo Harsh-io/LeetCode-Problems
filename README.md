@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
