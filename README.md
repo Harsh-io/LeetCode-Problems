@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
