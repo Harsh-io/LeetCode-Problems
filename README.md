@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
