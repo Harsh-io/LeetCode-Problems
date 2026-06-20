@@ -1,33 +1,29 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
 
     public List<List<Integer>> combinationSum(int[] arr, int target) {
-
-        List<List<Integer>> combinations = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-
-        generate(0, arr, target, 0, combinations, temp);
-
-        return combinations;
+        generate(0, target, temp, arr);
+        return ans;
     }
 
-    public void generate(int i, int[] arr, int t, int sum, List<List<Integer>> combinations, List<Integer> temp) {
+    public void generate(int i, int target, List<Integer> temp, int[] arr) {
 
-        if (i == arr.length) {
-            if (sum == t) {
-                combinations.add(new ArrayList<>(temp));
-            }
+        if (target == 0) {
+            ans.add(new ArrayList<>(temp));
             return;
         }
 
-        if (sum > t) return;
+        if (i == arr.length || target < 0) return;
 
-        // pick
+        // take
         temp.add(arr[i]);
-        generate(i, arr, t, sum + arr[i], combinations, temp);
+        generate(i, target - arr[i], temp, arr);
 
+        // backtrack
         temp.remove(temp.size() - 1);
 
-        // not pick
-        generate(i + 1, arr, t, sum, combinations, temp);
+        // not take
+        generate(i + 1, target, temp, arr);
     }
 }
