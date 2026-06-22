@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
