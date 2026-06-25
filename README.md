@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1922-count-good-numbers) |
@@ -325,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
