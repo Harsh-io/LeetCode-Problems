@@ -11,22 +11,54 @@
 class Solution {
     public ListNode sortList(ListNode head) {
         
-        ListNode temp = head;
-        ArrayList<Integer> arr = new ArrayList<>();
+        if(head ==  null || head.next == null) return head;
 
-        while(temp != null){
-            arr.add(temp.val);
-            temp = temp.next;
-        }
+        ListNode middle = FindMiddle(head);
 
-        Collections.sort(arr);
-        temp = head;
+        ListNode leftHead = head;
+        ListNode rightHead = middle.next;
+        middle.next = null;
 
-        for (Integer ele : arr) {
-            if(temp == null) return null;
-            temp.val = ele;
-            temp = temp.next;
-        }
-        return head;
+        leftHead = sortList(leftHead);
+        rightHead = sortList(rightHead);
+
+
+        return mergesort(leftHead, rightHead);
     }
+
+    public ListNode FindMiddle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    public ListNode mergesort(ListNode h1, ListNode h2) {
+        
+        ListNode dummyNode = new ListNode(-1);
+        ListNode temp = dummyNode;
+
+        while(h1 != null && h2 != null){
+            if(h1.val < h2.val){
+                temp.next = h1;
+                temp = h1;
+                h1 = h1.next;
+            }else{
+                temp.next = h2;
+                temp = h2;
+                h2 = h2.next;
+            }    
+        }
+
+        if(h1 != null) temp.next = h1;
+        else temp.next = h2;
+
+        return dummyNode.next;
+    }
+
+
 }
