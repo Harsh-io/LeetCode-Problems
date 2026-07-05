@@ -14,6 +14,7 @@ class MyStack {
             q2.add(q1.remove());
         }
 
+        //swap
         Queue<Integer> temp = q1;
         q1 = q2;
         q2 = temp;
