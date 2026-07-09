@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0061-rotate-list) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
