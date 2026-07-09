@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
 | ------- |
