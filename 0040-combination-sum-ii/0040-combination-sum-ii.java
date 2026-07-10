@@ -16,7 +16,8 @@ class Solution {
 
         for (int i = index; i < arr.length; i++) {
 
-            if (i > index && arr[i] == arr[i - 1]) continue;
+            if (i > index && arr[i] == arr[i - 1]) continue;  
+            //if(i > idx) pick the first element only once so that you dont miss the cases such as [1,1] or [2,2]
 
             if (arr[i] > target) break;
 
