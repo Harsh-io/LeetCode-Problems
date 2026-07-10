@@ -1,25 +1,27 @@
 class Solution {
-
     public List<String> generateParenthesis(int n) {
+        List<String> arr = new ArrayList<>();
+        
+        solve(arr, n, 1, 1, new StringBuilder("("));
 
-        ArrayList<String> arr = new ArrayList<>();
-        solve(n, n, arr, "");
         return arr;
     }
 
-    void solve(int open, int close, ArrayList<String> arr, String op) {
+    public void solve(List<String> arr, int n, int i, int cnt, StringBuilder sb){
 
-        if (open == 0 && close == 0) {
-            arr.add(op);
+        if( i == 2*n){
+            arr.add(sb.toString());
             return;
         }
 
-        if (open != 0) {
-            solve(open - 1, close, arr, op + "(");
+        if((i + cnt) / 2 < n){
+            solve(arr, n, i+1, cnt+1, sb.append("("));
+            sb.deleteCharAt(sb.length() - 1);
         }
 
-        if (close > open) {
-            solve(open, close - 1, arr, op + ")");
+        if(cnt > 0){
+            solve(arr, n, i+1, cnt-1, sb.append(")"));
+            sb.deleteCharAt(sb.length() - 1);
         }
     }
 }
