@@ -1,36 +1,27 @@
 class Solution {
-    
-    ArrayList<String> ans = new ArrayList<>();
 
     public String getPermutation(int n, int k) {
+        int fact = 1;
+        List<Integer> numbers = new ArrayList<>();
 
-        boolean[] used = new boolean[n+1];
-
-        generate(n, new StringBuilder(), used);
-
-        // Permutations are already generated in sorted order
-        return ans.get(k - 1); // k is 1-indexed
-
-    }
-
-    public void generate(int n, StringBuilder temp, boolean[] used) {
-
-        if(temp.length() == n){
-            ans.add(temp.toString());
-            return;
+        for(int i=1; i<n; i++){
+            fact = fact * i;
+            numbers.add(i);
         }
+        numbers.add(n);
+        String ans = "";
+        k = k-1;
 
-        for(int i=1; i<=n; i++){
+        while(true){
+            ans = ans + numbers.get(k / fact);
+            numbers.remove(k/fact);
 
-            if (!used[i]) {
-                
-                used[i] = true;
-                temp.append(i);
-                
-                generate(n, temp, used);
-                temp.deleteCharAt(temp.length()-1);
-                used[i] = false;
-            }
+            if(numbers.size() == 0) break;
+
+            k = k % fact;
+            fact = fact/numbers.size();
         }
+        
+        return ans;
     }
 }
