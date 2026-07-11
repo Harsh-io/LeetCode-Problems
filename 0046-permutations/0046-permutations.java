@@ -1,33 +1,35 @@
 class Solution {
-    
-    List<List<Integer>> ans = new ArrayList<>();
 
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> permute(int[] arr) {
-        boolean[] used = new boolean[arr.length];
-        generate(arr, new ArrayList<>(), used);
-            return ans;
+        generate(0, arr);
+        return ans;
     }
 
-    public void generate(int[] arr, ArrayList<Integer> temp, boolean[] used){
-
-        if(temp.size() == arr.length){
-            ans.add(new ArrayList<>(temp));
+    public void generate(int idx, int[] arr) {
+        
+        if (idx == arr.length) {
+            ArrayList<Integer> temp = new ArrayList<>();
+            for (int num : arr) {
+                temp.add(num);
+            }
+            ans.add(temp);
             return;
         }
 
-        for(int j=0; j<arr.length; j++){
-
-            // Skip the element if already used
-            if(used[j]) continue;
-                
-            temp.add(arr[j]);
-            used[j] = true;
-
-            generate(arr, temp, used);
-
-            temp.remove(temp.size()-1);
-            used[j] = false;
-
+        for (int i = idx; i < arr.length; i++) {
+            
+            swap(arr, idx, i);
+            
+            generate(idx + 1, arr);
+            
+            swap(arr, idx, i);
         }
+    }
+
+    public void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
