@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-longest-fibonacci-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3708-longest-fibonacci-subarray) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## String Matching
 |  |
 | ------- |
