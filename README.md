@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0282-expression-add-operators](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Matrix
