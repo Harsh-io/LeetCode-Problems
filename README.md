@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1537-get-the-maximum-score](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1537-get-the-maximum-score) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Counting
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
