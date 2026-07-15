@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0326-power-of-three) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0344-reverse-string) |
