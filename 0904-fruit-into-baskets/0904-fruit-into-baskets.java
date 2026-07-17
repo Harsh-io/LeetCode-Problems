@@ -11,15 +11,15 @@ class Solution {
             
             map.put(arr[r], map.getOrDefault(arr[r], 0) + 1);
 
-            while(map.size() > 2){
+            if(map.size() > 2){
+                map.put(arr[l] ,  map.get(arr[l]) - 1);
 
-                map.put(arr[l] ,  map.getOrDefault(arr[l], 0) - 1);
                 if(map.get(arr[l]) ==  0) map.remove(arr[l]); 
+
                 l++;
 
             }
-
-            maxlen = Math.max(maxlen, r-l+1);
+            if(map.size() <= 2) maxlen = Math.max(maxlen, r-l+1);
             r++;
         }
         return maxlen;
