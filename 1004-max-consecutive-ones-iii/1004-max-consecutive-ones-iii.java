@@ -8,17 +8,23 @@ class Solution {
 
 
         while(r < arr.length){
+
             if(arr[r] == 0) zeros++;
-            while(zeros > k){
+
+            if(zeros > k){
+
                 if(arr[l] == 0) zeros--;
                 l++;
             }
-            max = Math.max(max, r-l+1);
+            if(zeros <= k){
+                int len = r-l+1;
+                max = Math.max(max, len);
+            }
             r++;
         }
         return max;
     }
 }
 
-//TC : O(N^2)
+//TC : O(N)
 //SC: O(1)
