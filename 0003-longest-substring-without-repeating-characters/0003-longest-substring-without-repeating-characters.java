@@ -9,17 +9,23 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int  maxlen = 0;
-        for(int i=0; i<s.length(); i++){
+        int l = 0;
+        int r = 0;
+        HashMap<Character, Integer> map = new HashMap<>();
 
-            Set<Integer> set = new HashSet<>();
+        while(r < s.length()){
 
-            for(int j=i; j<s.length(); j++){
-                if(set.contains(s.charAt(j) - 'a')) break;
-                else set.add(s.charAt(j) -'a');
-
-                int len = j-i+1;
-                maxlen = Math.max(len, maxlen);
+            char ch = s.charAt(r);
+            // map.get(ch) >= l check whether the previous occurrence of ch is inside the current sliding window.
+            if(map.containsKey(ch) && map.get(ch) >= l){   
+                l = map.get(ch) + 1;
             }
+            
+            map.put(ch, r);
+
+            int len = r-l+1;
+            r++;
+            maxlen = Math.max(len, maxlen);
         }
         return maxlen;
     }
