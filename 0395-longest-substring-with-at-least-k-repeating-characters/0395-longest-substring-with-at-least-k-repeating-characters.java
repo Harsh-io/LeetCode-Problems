@@ -1,26 +1,49 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-        int max = 0;
 
-        for(int i=0; i<s.length(); i++){
+        int ans = 0;
+
+        for(int targetUnique=1; targetUnique<=26; targetUnique++){
+
             int[] freq = new int[26];
 
-            for(int j=i ;j<s.length(); j++){
+            int left = 0;
+            int right = 0;
 
-                freq[s.charAt(j) - 'a']++;
-                boolean valid = true;
+            int unique = 0; //Number of distinct characters currently inside the window.
+            int countatleastK = 0;  //Number of characters whose frequency is at least k
 
-                for(int f : freq) { 
-                    if(f > 0 && f < k) { 
-                        valid = false;
-                        break;
-                    }
+            while(right < s.length()){
+
+                int idx = s.charAt(right) - 'a';
+
+                if(freq[idx] == 0) unique++;
+
+                freq[idx]++;
+
+                if(freq[idx] == k) countatleastK++;
+
+                right++;
+
+                //trim from left 
+                while(unique > targetUnique){
+
+                    idx = s.charAt(left) - 'a';
+
+                    if(freq[idx] == k) countatleastK--;
+
+                    freq[idx]--;
+
+                    if(freq[idx] == 0) unique--;
+
+                    left++;
+                    
                 }
-                if(valid) {
-                    max = Math.max(max, j - i + 1);
+                if(unique == targetUnique && unique == countatleastK){
+                    ans = Math.max(ans, right-left);
                 }
             }
         }
-        return max;
+        return ans;
     }
 }
