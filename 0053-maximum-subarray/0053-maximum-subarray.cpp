@@ -10,9 +10,10 @@ public:
             sum += it;
 
             maxsum = max(sum , maxsum);
+                        if (sum < 0) sum =0;
 
-            if (sum < 0) sum =0;
-
+            cout << sum << "   " << maxsum << endl;
+ 
 
         }
 
