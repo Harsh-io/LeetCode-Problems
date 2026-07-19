@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1537-get-the-maximum-score](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1537-get-the-maximum-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
