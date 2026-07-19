@@ -2,22 +2,16 @@ import java.util.*;
 
 class Solution {
     public int subarraySum(int[] arr, int k) {
-        int sum = 0;
-        int count = 0;
+        int cnt = 0;
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);
-
-        for (int num : arr) {
-            sum += num;
-
-            if (map.containsKey(sum - k)) {
-                count += map.get(sum - k);
+        for(int i=0; i<arr.length; i++){
+            int sum = 0;
+            for(int j=i; j<arr.length; j++){
+                sum+=arr[j];
+                if(sum == k) cnt++;
+                
             }
-
-            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
-
-        return count;
+        return cnt;
     }
 }
