@@ -1,22 +1,22 @@
+import java.util.*;
+
 class Solution {
     public int numberOfSubstrings(String s) {
+        int[] freq = new int[3];
 
-        int[] lastseen = {-1, -1, -1};
-        int cnt = 0;
+        int left = 0;
+        int res = 0;
 
-        for(int i = 0; i < s.length(); i++){
+        for (int right = 0; right < s.length(); right++) {
+            freq[s.charAt(right) - 'a']++;
 
-            lastseen[s.charAt(i) - 'a'] = i;
-
-            if(lastseen[0] != -1 && lastseen[1] != -1 && lastseen[2] != -1){
-
-                cnt += 1 + Math.min(lastseen[0], Math.min(lastseen[1], lastseen[2]));
-
+            while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
+                res += (s.length() - right);
+                freq[s.charAt(left) - 'a']--;
+                left++;
             }
         }
 
-        return cnt;
+        return res;
     }
 }
-//TC: O(N)
-//SC: O(1)
