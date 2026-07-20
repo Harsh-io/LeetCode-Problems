@@ -1,57 +1,22 @@
-//Brute Force
-// class Solution {
-//     public int numberOfSubstrings(String s) {
-
-//         int n = s.length();
-//         int total = 0;
-
-//         for(int i = 0; i < n; i++) {
-//             int cntA = 0;
-//             int cntB = 0;
-//             int cntC = 0;
-//             for(int r = i; r < n; r++) {
-//                 char ch = s.charAt(r);
-//                 if(ch== 'a') cntA++;
-//                 else if(ch == 'b') cntB++;
-//                 else cntC++;
-
-//                 if(cntA >= 1 && cntB >= 1 && cntC >= 1){
-//                     total += n - r;
-//                     break;
-//                 }
-//             }
-//         }
-//         return total;
-//     }
-// }
 class Solution {
     public int numberOfSubstrings(String s) {
-        int l = 0;
-        int r = 0;
-        int cntA = 0; 
-        int cntB = 0; 
-        int cntC = 0; 
-        int total  = 0;
 
-        while(r < s.length()){
-            // add s[r] to count
-            char ch = s.charAt(r);
-            if(ch == 'a') cntA++;
-            else if(ch == 'b') cntB++;
-            else cntC++;
-             r++;
+        int[] lastseen = {-1, -1, -1};
+        int cnt = 0;
 
-            while(cntA >= 1 && cntB >= 1 && cntC >= 1) {
-            // remove s[l] from count
-            total += s.length() - r + 1;
+        for(int i = 0; i < s.length(); i++){
 
-            ch = s.charAt(l);
-            if(ch == 'a') cntA--;
-            else if(ch == 'b') cntB--;
-            else cntC--;
-            l++;
+            lastseen[s.charAt(i) - 'a'] = i;
+
+            if(lastseen[0] != -1 && lastseen[1] != -1 && lastseen[2] != -1){
+
+                cnt += 1 + Math.min(lastseen[0], Math.min(lastseen[1], lastseen[2]));
+
             }
         }
-        return total;
+
+        return cnt;
     }
-}        
+}
+//TC: O(N)
+//SC: O(1)
