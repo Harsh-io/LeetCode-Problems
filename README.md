@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
