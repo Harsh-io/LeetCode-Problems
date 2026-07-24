@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1861-rotating-the-box) |
