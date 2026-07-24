@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0494-target-sum) |
