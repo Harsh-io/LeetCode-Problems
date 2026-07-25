@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2784-check-if-array-is-good](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
