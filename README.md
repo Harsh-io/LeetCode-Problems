@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0788-rotated-digits) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0899-orderly-queue](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0912-sort-an-array) |
