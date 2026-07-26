@@ -1,28 +1,30 @@
 class Solution {
     public int[] nextGreaterElement(int[] arr1, int[] arr2) {
-        int[] ans = new int[arr1.length];
-        // Arrays.sort(arr1);
-        // Arrays.sort(arr2);
-        boolean found = false;
+        int n = arr2.length;
+        int[] ans = new int[n];
+        int[] res = new int[arr1.length];
+        Stack<Integer> st = new Stack<>();
+
+        for(int i=n-1; i>=0; i--){
+
+            while(!st.isEmpty() && st.peek() < arr2[i]){
+                st.pop();
+            }
+
+            if(st.isEmpty()) ans[i] = -1;
+            else ans[i] = st.peek();
+
+            st.push(arr2[i]);
+        }
 
         for(int i=0; i<arr1.length; i++){
-            for(int j=0; j<arr2.length; j++){
-
-                if(arr1[i] == arr2[j]){
-                    int ele = arr2[j];
-                    found = false;
-                    while(j < arr2.length){
-                        if(arr2[j] > ele){
-                            ans[i] = arr2[j];
-                            found = true;
-                            break;
-                        }
-                        j++;
-                    }
+            int ele = arr1[i];
+            for(int j=0; j<n; j++){
+                if(ele == arr2[j]){
+                    res[i] = ans[j];
                 }
-                if(!found == true) {ans[i] = -1;}
             }
         }
-        return ans;
+        return res;
     }
 }
