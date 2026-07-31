@@ -1,45 +1,55 @@
 class Solution {
+
     public int[] makeParityAlternating(int[] arr) {
 
-        if(arr.length == 0) return new int[]{0,0};
-        int max = arr[0];
+        if (arr.length == 1) return new int[]{0, 0};
+
         int min = arr[0];
+        int max = arr[0];
 
-        for(int num : arr){
-            min = Math.min(num, min);
-            max = Math.max(num, max);
+        for (int num : arr) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
         }
 
-        int[] EvenFirst = solve(arr, 0, max, min);
-        int[] OddFirst = solve(arr, 1, max, min);
+        // Pattern: even, odd, even, odd...
+        int[] evenFirst = solve(arr, 0, min, max);
 
-        if(EvenFirst[0] !=  OddFirst[0]){
-            return EvenFirst[0] < OddFirst[0] ? EvenFirst : OddFirst;
-        }
+        // Pattern: odd, even, odd, even...
+        int[] oddFirst = solve(arr, 1, min, max);
 
-        return EvenFirst[1] <= OddFirst[1] ? EvenFirst : OddFirst;
+        if (evenFirst[0] < oddFirst[0]) return evenFirst;
+        if (oddFirst[0] < evenFirst[0]) return oddFirst;
+
+        return evenFirst[1] <= oddFirst[1] ? evenFirst : oddFirst;
     }
 
-    public int[] solve(int[] arr, int start, int max, int min){
+    public int[] solve(int[] arr, int start, int min, int max) {
+
         int cnt = 0;
-        int max_ = Integer.MIN_VALUE;
-        int min_ = Integer.MAX_VALUE;
+        int newMin = Integer.MAX_VALUE;
+        int newMax = Integer.MIN_VALUE;
 
-        for(int i=0; i<arr.length; i++){
+        for (int i = 0; i < arr.length; i++) {
+
             int num = arr[i];
+            int expectedParity = (start + i) % 2;
 
-            int expParity = (start + i)%2;
-            if(Math.floorMod(num, 2) != expParity){
+            if (Math.floorMod(num, 2) != expectedParity) {
                 cnt++;
 
-                if(num == max) num--;
-                if(num == min) num++;
+                // Move extreme elements towards the inside
+                if (num == min) {
+                    num++;
+                } else if (num == max) {
+                    num--;
+                }
             }
 
-            min_ = Math.min(num, min_);
-            max_ = Math.max(num, max_);
+            newMin = Math.min(newMin, num);
+            newMax = Math.max(newMax, num);
         }
 
-        return new int[]{cnt, max_ - min_};
+        return new int[]{cnt, Math.max(1, newMax - newMin)};
     }
 }
