@@ -18,12 +18,6 @@ class Solution {
             if(i > 0 && i%8 == 0) push += 1;
 
             sum += arr[i] * push;
-
-            System.out.println(arr[i]);
-            System.out.println(push);
-            System.out.println(sum);
-            System.out.println();
-
             
         }
         return sum;
