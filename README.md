@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1323-maximum-69-number) |
