@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0788-rotated-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1537-get-the-maximum-score](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1537-get-the-maximum-score) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
@@ -663,4 +666,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
