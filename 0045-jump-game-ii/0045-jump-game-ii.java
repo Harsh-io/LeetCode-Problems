@@ -1,37 +1,25 @@
 class Solution {
-    int[] dp;
-
     public int jump(int[] arr) {
 
-        dp = new int[arr.length];
-        return solve(arr, 0);
-    }
+        int l = 0, r = 0;
+        int jumps = 0;
 
-    public int solve(int[] arr, int idx) {
+        while (r < arr.length - 1) {
 
-        if (idx >= arr.length - 1) {
-            return 0;
-        }
+            int farthest = 0;
 
-        if (arr[idx] == 0) {
-            return Integer.MAX_VALUE;
-        }
+            for (int idx = l; idx <= r; idx++) {
 
-        if (dp[idx] != 0) {
-            return dp[idx];
-        }
-
-        int minIdx = Integer.MAX_VALUE;
-
-        for (int i = 1; i <= arr[idx]; i++) {
-
-            int ans = solve(arr, idx + i);
-
-            if (ans != Integer.MAX_VALUE) {
-                minIdx = Math.min(minIdx, ans + 1);
+                farthest = Math.max(idx + arr[idx], farthest);
             }
+
+            if (farthest == r) return -1; // cannot move further
+
+            l = r + 1;
+            r = farthest;
+            jumps++;
         }
 
-        return dp[idx] = minIdx;
+        return jumps;
     }
 }
