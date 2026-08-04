@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3708-longest-fibonacci-subarray) |
+| [3731-find-missing-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3838-weighted-word-mapping](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3731-find-missing-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
