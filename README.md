@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3731-find-missing-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3790-smallest-all-ones-multiple) |
+| [3945-digit-frequency-score](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3945-digit-frequency-score](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
