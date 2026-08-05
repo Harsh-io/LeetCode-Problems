@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1537-get-the-maximum-score](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1537-get-the-maximum-score) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -693,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
