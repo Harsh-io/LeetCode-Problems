@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2126-destroying-asteroids](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1710-maximum-units-on-a-truck](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2126-destroying-asteroids](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
