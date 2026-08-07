@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
