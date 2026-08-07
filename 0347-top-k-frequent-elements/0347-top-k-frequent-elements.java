@@ -1,31 +1,44 @@
+import java.util.*;
+
 class Solution {
-    public int[] topKFrequent(int[] arr, int k) {
-        
+    public int[] topKFrequent(int[] nums, int k) {
 
-        Map<Integer, Integer> map = new HashMap<>();
-        int[] ans = new int[k];
+        // Step 1: Frequency map
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-
-        for(int i=0; i<arr.length; i++){
-            map.put(arr[i], map.getOrDefault(arr[i], 0)+1);
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(map.entrySet());
-        Collections.sort(list, (a, b) -> b.getValue() - a.getValue());
+        // Step 2: Create buckets
+        List<Integer>[] buckets = new ArrayList[nums.length + 1];
 
-        int idx=0;
-        for (Map.Entry<Integer, Integer> e : list) {
-            if (idx >= k)  break;
-            ans[idx++] = e.getKey();
-        }       
+        for (int num : map.keySet()) {
+            int freq = map.get(num);
 
-        // for (int idx = 0; idx < k; idx++) {
-        //     ans[idx] = list.get(idx).getKey();
-        // }
-        
+            if (buckets[freq] == null) {
+                buckets[freq] = new ArrayList<>();
+            }
+
+            buckets[freq].add(num);
+        }
+
+
+        // Step 3: Collect top k elements
+        int[] ans = new int[k];
+        int index = 0;
+
+        for (int i = buckets.length - 1; i >= 0 && index < k; i--) {
+
+            if (buckets[i] != null) {
+                for (int num : buckets[i]) {
+                    ans[index++] = num;
+
+                    if (index == k) break;
+                }
+            }
+        }
+
         return ans;
     }
 }
-
-        
-                
