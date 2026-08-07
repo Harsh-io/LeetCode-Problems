@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0494-target-sum) |
