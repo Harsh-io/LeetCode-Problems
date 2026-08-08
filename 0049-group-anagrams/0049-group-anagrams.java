@@ -6,9 +6,7 @@ class Solution {
 
         for (int i = 0; i < str.length; i++) {
 
-            if (vis[i])
-                continue;
-
+            if (vis[i]) continue;
             vis[i] = true;
 
             List<String> group = new ArrayList<>();
@@ -23,11 +21,9 @@ class Solution {
 
             for (int j = i + 1; j < str.length; j++) {
 
-                if (vis[j])
-                    continue;
+                if (vis[j]) continue;
 
-                if (str[i].length() != str[j].length())
-                    continue;
+                if (str[i].length() != str[j].length()) continue;
 
                 int[] f2 = new int[26];
 
@@ -50,7 +46,6 @@ class Solution {
                     vis[j] = true;
                 }
             }
-
             ans.add(group);
         }
 
