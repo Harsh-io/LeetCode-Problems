@@ -1,29 +1,11 @@
 class Solution {
-    public boolean rotateString(String s, String g) {
-        if(s.length() != g.length()){return false;}
+    public boolean rotateString(String s, String goal) {
 
-        for(int i=0; i<s.length(); i++){
-            String r = s.substring(i,s.length()) + s.substring(0,i);
-            if(r.equals(g)){return true;}
+        if (s.length() != goal.length()) {
+            return false;
         }
-        return false;
+
+        String res = s+s;
+        return res.contains(goal);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//OPTIMAL
-// String sb = s + s;
-//return sb.contains(g);
