@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 ## Merge Sort
 |  |
 | ------- |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 ## Segment Tree
 |  |
 | ------- |
@@ -727,9 +729,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
