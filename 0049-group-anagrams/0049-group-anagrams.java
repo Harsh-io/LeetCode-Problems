@@ -1,54 +1,33 @@
+import java.util.*;
+
 class Solution {
-    public List<List<String>> groupAnagrams(String[] str) {
+    public List<List<String>> groupAnagrams(String[] strs) {
 
-        List<List<String>> ans = new ArrayList<>();
-        boolean[] vis = new boolean[str.length];
+        Map<String, List<String>> map = new HashMap<>();
 
-        for (int i = 0; i < str.length; i++) {
+        for (String s : strs) {
 
-            if (vis[i]) continue;
-            vis[i] = true;
+            // 1. Count characters
+            int[] freq = new int[26];
 
-            List<String> group = new ArrayList<>();
-            group.add(str[i]);
-
-            int[] f1 = new int[26];
-
-            for (int x = 0; x < str[i].length(); x++) {
-                char ch = str[i].charAt(x);
-                f1[ch - 'a']++;
+            for (char ch : s.toCharArray()) {
+                freq[ch - 'a']++;
             }
 
-            for (int j = i + 1; j < str.length; j++) {
+            // 2. Convert frequency into a unique key
+            StringBuilder key = new StringBuilder();
 
-                if (vis[j]) continue;
-
-                if (str[i].length() != str[j].length()) continue;
-
-                int[] f2 = new int[26];
-
-                for (int y = 0; y < str[j].length(); y++) {
-                    char ch = str[j].charAt(y);
-                    f2[ch - 'a']++;
-                }
-
-                boolean same = true;
-
-                for (int m = 0; m < 26; m++) {
-                    if (f1[m] != f2[m]) {
-                        same = false;
-                        break;
-                    }
-                }
-
-                if (same) {
-                    group.add(str[j]);
-                    vis[j] = true;
-                }
+            for (int i = 0; i < 26; i++) {
+                key.append(freq[i]).append('#');
             }
-            ans.add(group);
+
+            // 3. Find/create its group and add the string
+            if (!map.containsKey(key.toString())) {
+                map.put(key.toString(), new ArrayList<>());
+            }
+
+            map.get(key.toString()).add(s);
         }
-
-        return ans;
+        return new ArrayList<>(map.values());
     }
 }
