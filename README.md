@@ -753,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
