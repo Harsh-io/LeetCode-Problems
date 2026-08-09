@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Merge Sort
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Tree
 |  |
 | ------- |
