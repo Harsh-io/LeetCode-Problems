@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1861-rotating-the-box) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Boyer–Moore Majority Vote Algorithm
