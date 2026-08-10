@@ -1,20 +1,18 @@
-import java.util.*;
 class Solution {
-    public static boolean isPalindrome(int x) {
+    public boolean isPalindrome(int x) {
+        
+        if( x < 0) return false;
 
-		int rev = 0;
-		int temp = x;
-		while (temp>0)
-		{
-		    int r = temp % 10;
-		    rev = rev * 10 + r;
-		    temp = temp/10;
-		}
-		if(rev == x){
-		    return true;
-		}
-		else{
-		    return false;
-		}
-	}
+        String str = Integer.toString(x);
+        
+        int i=0;
+        int j = str.length()-1;
+
+        while(i < j){
+            if(str.charAt(i) != str.charAt(j)) return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
 }
