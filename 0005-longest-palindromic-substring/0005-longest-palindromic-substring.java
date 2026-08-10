@@ -1,45 +1,34 @@
-import java.util.*;
-
 class Solution {
-
-    int[][] dp = new int[1001][1001];
-
-    int solve(String s, int i, int j) {
-        if (i >= j) return 1;
-
-        if (dp[i][j] != -1) {
-            return dp[i][j];
+    public String expand(String s, int l, int r) {
+        
+        while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
+            l--;
+            r++;
         }
 
-        if (s.charAt(i) == s.charAt(j)) {
-            return dp[i][j] = solve(s, i + 1, j - 1);
-        }
-
-        return dp[i][j] = 0;
+        return s.substring(l+1, r);
     }
 
     public String longestPalindrome(String s) {
-        int n = s.length();
+       
+       int n = s.length();
+       if(n == 1) return s;
+       
+       String ans = "";
 
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
+       for(int i=0; i<n-1; i++){
 
-        int maxLen = 0;
-        int sp = 0;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-
-                if (solve(s, i, j) == 1) {
-                    if (j - i + 1 > maxLen) {
-                        maxLen = j - i + 1;
-                        sp = i;
-                    }
-                }
+            String odd = expand(s, i, i);
+            
+            if(odd.length() > ans.length()){
+                ans = odd;
             }
-        }
 
-        return s.substring(sp, sp + maxLen);
+            String even = expand(s, i, i+1);
+            if(even.length() > ans.length()){
+                ans = even;
+            }
+       }
+       return ans;
     }
 }
