@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Harsh-io/LeetCode-Problems/tree/master/1922-count-good-numbers) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0901-online-stock-span) |
