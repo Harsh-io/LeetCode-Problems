@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
