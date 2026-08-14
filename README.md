@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2315-count-asterisks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Counting
 |  |
