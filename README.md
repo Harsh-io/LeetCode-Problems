@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Harsh-io/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
