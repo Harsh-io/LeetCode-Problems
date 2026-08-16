@@ -1,47 +1,45 @@
 class Solution {
-
-    public void dfs(int node,  ArrayList<ArrayList<Integer>> adj, int[] vis){
-
-        vis[node] = 1;
-        for(Integer it : adj.get(node)){
-
-            if(vis[it] == 0){
-                dfs(it, adj, vis);
-            }
-        }
-    }
-
-    public int findCircleNum(int[][] isConnected) {
+    public int findCircleNum(int[][] arr) {
         
-        int n = isConnected.length;
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<ArrayList<Integer>>();
+        int n = arr.length;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        for(int i=0; i<n; i++){
+        for(int i=0; i<=n; i++){
             adj.add(new ArrayList<>());
         }
 
-        //change matric to adjacenty list 
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
 
-                if(isConnected[i][j] == 1 && i != j){
-                    adj.get(i).add(j);
-                    adj.get(j).add(i);
+                if(arr[i][j] == 1 & i != j){
+                    adj.get(i+1).add(j+1);
+                    adj.get(j+1).add(i+1);
                 }
             }
         }
 
-        int vis[] = new int[n];
-        int cnt  = 0;
-        for(int i=0; i<n; i++){
-            if(vis[i] == 0){
+        boolean vis[] = new boolean[n+1];
+        int cnt = 0;
+
+        for(int i=1; i<=n; i++){
+
+            if(vis[i] == false){
                 cnt++;
                 dfs(i, adj, vis);
             }
         }
-
-        return cnt;
+       return cnt;
     }
 
+    public static void dfs(int node, ArrayList<ArrayList<Integer>> adj, boolean vis[]){
+        
+        vis[node] = true;
 
+        for(int it : adj.get(node)){
+            if(vis[it] == false) dfs(it, adj, vis);
+        }
+    }
 }
+
+//SC: O(N) +O(N) [visited array + recursion stack space]
+//TC: O(N) + O(V + 2E) 
