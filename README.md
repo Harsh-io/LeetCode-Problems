@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3731-find-missing-elements](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3790-smallest-all-ones-multiple](https://github.com/Harsh-io/LeetCode-Problems/tree/master/3790-smallest-all-ones-multiple) |
